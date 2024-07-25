@@ -11,6 +11,8 @@
 * [Opentrons-Protocols](https://github.com/Russell-Tran/Opentrons-Protocols): Programming the Opentrons OT-2 robot (opentrons.com) to run experiments in biology labs
 * [soap-supply-price-bots](https://github.com/Russell-Tran/soap-supply-price-bots): System for true price comparison of soapmaking ingredients across ecommerce
 * [Openphone bulk SMS](https://github.com/Russell-Tran/openphone-bulk-sms/tree/main): When you need to send a bulk sms to your customers on Openphone in an ad hoc manner
+* [excel-barcode-scanner-guide](https://github.com/Salk-Harnessing-Plants-Initiative/excel-barcode-scanner-guide): Excel technique that allows you to quickly scan a barcode (or QR code) to find a row and input a value associated with that row
+* [nsipptparser](https://github.com/Salk-Harnessing-Plants-Initiative/nsipptparser): Python package to parse .nsippt files to json
 * [Gists](https://gist.github.com/Russell-Tran)
 
 #### Work in progress
