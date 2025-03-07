@@ -3,7 +3,7 @@
 * [kpistunova/Stanford-CS-261-Credit-Networks-with-Fees](https://github.com/kpistunova/Stanford-CS-261-Credit-Networks-with-Fees): Python simulations for studying the dynamics of credit networks with integrated transaction fees. The goal is to understand how various factors such as edge capacities, transaction fees, graph density, and topology influence the success rate of transactions within the network.
 * [Salk-Harnessing-Plants-Initiative/data-system](https://github.com/Salk-Harnessing-Plants-Initiative/data-system): The main Salk HPI Data System for tracking plants and their phenotypic data in the lab, greenhouse, and field. Integrates with QR code tracking. Makes querying past experiments (+ images, etc.) and environmental data easier.
 * [CS221_find_water](https://github.com/Russell-Tran/CS221_find_water): We use Deep Q-Learning (DQN) to train an agent to search for bodies of water in the video game Minecraft. The agent reads in raw pixel inputs and has the controls of a normal player.
-* [data-projects](https://github.com/data-projects): Miscellaneous data projects, incl. parking lots, birth dates, eBay car sales
+* [data-projects](https://github.com/Russell-Tran/data-projects): Miscellaneous data projects, incl. parking lots, birth dates, eBay car sales
 * [Salk-Harnessing-Plants-Initiative/aws-s3-desktop-uploader](https://github.com/Salk-Harnessing-Plants-Initiative/aws-s3-desktop-uploader): Python script for uploading files to an AWS S3 bucket with some additional features
 
 ### Other projects
