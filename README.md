@@ -1,5 +1,5 @@
 ### Blog
-https://russell-tran.github.io/
+AI Security Engineering: https://russell-tran.github.io/
 
 ### Pinned projects
 * [rodrigo-castellon/babyray](https://github.com/rodrigo-castellon/babyray): Baby Ray is a minimalist implementation of Ray (distributed ML platform) in Go.
@@ -20,3 +20,9 @@ https://russell-tran.github.io/
 
 #### Work in progress
 * [Import Blogger to Posthaven](https://github.com/Russell-Tran/import-blogger-to-posthaven)
+
+### Visual projects portfolio
+* https://russelltran.com/
+
+### Economics ideas
+* https://blog.russelltran.com/
