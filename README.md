@@ -21,8 +21,11 @@ AI Security Engineering: https://russell-tran.github.io/
 #### Work in progress
 * [Import Blogger to Posthaven](https://github.com/Russell-Tran/import-blogger-to-posthaven)
 
+#### Economics ideas
+* https://blog.russelltran.com/
+
 ### Visual projects portfolio
 * https://russelltran.com/
 
-### Economics ideas
-* https://blog.russelltran.com/
+### 
+
