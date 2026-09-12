@@ -1,3 +1,6 @@
+### Blog
+https://russell-tran.github.io/
+
 ### Pinned projects
 * [rodrigo-castellon/babyray](https://github.com/rodrigo-castellon/babyray): Baby Ray is a minimalist implementation of Ray (distributed ML platform) in Go.
 * [kpistunova/Stanford-CS-261-Credit-Networks-with-Fees](https://github.com/kpistunova/Stanford-CS-261-Credit-Networks-with-Fees): Python simulations for studying the dynamics of credit networks with integrated transaction fees. The goal is to understand how various factors such as edge capacities, transaction fees, graph density, and topology influence the success rate of transactions within the network.
