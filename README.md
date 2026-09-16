@@ -24,7 +24,7 @@ AI Engineering / AI Security Engineering: https://russell-tran.github.io/
 #### Economics ideas
 * https://blog.russelltran.com/
 
-### Visual projects portfolio
+### Physical projects portfolio
 * https://russelltran.com/
 
 ### 
