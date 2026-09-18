@@ -1,8 +1,8 @@
 ### Blog
 AI Engineering / AI Security Engineering: https://russell-tran.github.io/
 
-### Parallel computing
-* [Parallel computing projects](https://github.com/Russell-Tran/parallel_computing)
+### Parallel computing projects
+* [parallel_computing](https://github.com/Russell-Tran/parallel_computing)
 * [rodrigo-castellon/babyray](https://github.com/rodrigo-castellon/babyray): Baby Ray is a minimalist implementation of Ray (distributed ML platform) in Go.
 
 ### Pinned projects
