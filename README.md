@@ -2,9 +2,10 @@
 AI Engineering / AI Security Engineering: https://russell-tran.github.io/
 
 ### Parallel computing projects
+* [rodrigo-castellon/babyray](https://github.com/rodrigo-castellon/babyray): Baby Ray is a minimalist implementation of Ray (distributed ML platform) in Go.
 * [parallel_computing](https://github.com/Russell-Tran/parallel_computing)
 * [parallel_computing_interactive](https://github.com/Russell-Tran/parallel_computing_interactive)
-* [rodrigo-castellon/babyray](https://github.com/rodrigo-castellon/babyray): Baby Ray is a minimalist implementation of Ray (distributed ML platform) in Go.
+* [render_brine](https://github.com/Russell-Tran/render_brine)
 
 ### Pinned projects
 * [kpistunova/Stanford-CS-261-Credit-Networks-with-Fees](https://github.com/kpistunova/Stanford-CS-261-Credit-Networks-with-Fees): Python simulations for studying the dynamics of credit networks with integrated transaction fees. The goal is to understand how various factors such as edge capacities, transaction fees, graph density, and topology influence the success rate of transactions within the network.
