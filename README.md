@@ -4,7 +4,7 @@ AI Engineering / AI Security Engineering: https://russell-tran.github.io/
 ### Parallel computing projects
 * [parallel_computing](https://github.com/Russell-Tran/parallel_computing)
 * [parallel_computing_interactive](https://github.com/Russell-Tran/parallel_computing_interactive)
-* [render_brine](https://github.com/Russell-Tran/render_brine)
+* [render_brine](https://github.com/Russell-Tran/render_brine): From ray-traced water to scientifically accurate renders of the chemistry of life, building toward a brine shrimp
 
 ### Pinned projects
 * [rodrigo-castellon/babyray](https://github.com/rodrigo-castellon/babyray): Baby Ray is a minimalist implementation of Ray (distributed ML platform) in Go.
